@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: Biological chemist and data scientist
+subtitle: Biomedical Reseacher and Data Scientist
 
 profile:
   align: right
@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Claudia Afonso. I'm a chemical biologist and data scientist with a strong research background. I have specialized in developing chemical biology strategies for the modification of proteins, as well as in applying machine learning and statistical analysis to complex datasets.
+Hi there, my name is Claudia Afonso. I'm a biomedical researcher and data scientist, specialized in developing chemical biology strategies for the modification of proteins, as well as in applying machine learning and statistical analysis to complex datasets. I'm currently seeking opportunities where I can apply my hybrid skill set to solve real-world problems, whether that’s in pharmaceutical, biotechnology, or technology sectors. My GitHub portfolio showcases projects where I’ve applied programming and machine learning techniques to solve problems in various contexts.
 
-What excites me most is solving problems that require domain knowledge and computational thinking. I'm currently seeking opportunities where I can apply this hybrid skill set, whether that's in pharmaceutical research and development, cheminformatics, biotech data analysis, or broader data science applications in healthcare and life sciences. My GitHub portfolio showcases projects where I've applied programming and machine learning to solve problems in various contexts.
-
-While I am living in Lisbon at the moment, I am fully prepared to relocate. I have experience living and working abroad, first in Germany as a research intern of the IAESTE program, and later in Cambridge, United Kingdom as a visiting doctoral student. I am fluent in written and spoken English, and I also understand German at an intermediate level.
+While living in Lisbon at the moment, I'm fully prepared to relocate. I have experience living and working abroad, first in Germany as a research intern of the IAESTE program, and later in Cambridge, United Kingdom as a visiting doctoral student. I am fluent in written and spoken English, and I also understand German at an intermediate level.

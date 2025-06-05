@@ -32,25 +32,29 @@
       institution: Faculty of Sciences, University of Lisbon, Lisbon, Portugal
       year: 2023 - 2025
     
-    - title: Research Scientist 
+    - title: Research Scientist in Biomedical Sciences
       institution: Institute of Molecular Medicine, Lisbon, Portugal
       year: 2018 - 2022
 
-    - title: Visiting Research Scientist 
+    - title: Visiting Research Scientist in Biomedical Sciences
       institution: University of Cambridge, Cambridge, United Kingdom
       year: 2021
 
-    - title: Research Scientist
-      institution: University of Greifswald, Greifswald, Germany
+    - title: Research Intern in Biochemistry
+      institution: University Medicine Greifswald, Greifswald, Germany
       year: 2017
 
-    - title: Research Scientist
+    - title: Graduate Researcher in Bioorganic Chemistry
       institution: NOVA University of Lisbon, Caparica, Portugal
       year: 2016 - 2017
 
-    - title: Research Scientist
+    - title: Graduate Researcher in Neuroscience
       institution: Institute of Molecular Medicine, Lisbon, Portugal
       year: 2015 - 2016
+
+    - title: Undergraduate Researcher in Chemistry
+      institution: Faculty of Sciences, University of Lisbon, Lisbon, Portugal
+      year: 2014
 
 - title: Projects
   type: time_table
