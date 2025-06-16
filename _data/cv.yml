@@ -1,7 +1,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Data Science
+    - title: MSc in Data Science
       institution: University of Lisbon, Lisbon, Portugal
       year: 2022 - 2025
 
@@ -13,15 +13,15 @@
       institution: University of Lisbon, Lisbon, Portugal
       year: 2022 - 2024
 
-    - title: Master of Science in Bioorganic Chemistry
+    - title: MSc in Bioorganic Chemistry
       institution: NOVA University of Lisbon, Caparica, Portugal
       year: 2015 - 2017
 
-    - title: Master of Science in Neuroscience 
+    - title: MSc in Neuroscience 
       institution: University of Lisbon, Lisbon, Portugal
       year: 2014 - 2017
 
-    - title: Bachelor of Science in Chemistry with a Minor in Biology
+    - title: BSc in Chemistry with a Minor in Biology
       institution: University of Lisbon, Lisbon, Portugal
       year: 2011 - 2014
 
@@ -56,36 +56,54 @@
       institution: Faculty of Sciences, University of Lisbon, Lisbon, Portugal
       year: 2014
 
-- title: Projects
+- title: Core Competencies
   type: time_table
   contents:
-    - title: <a href="https://github.com/cfafonso/ecommerce-etl-data-warehouse">Ecommerce Data Warehouse</a>
-      
-    - title: <a href="https://github.com/cfafonso/birth-plan-manager">Birth Plan Manager</a>
-      
-    - title: <a href="https://github.com/cfafonso/db-sqlite-mongo-benchmark">Database Performance Analysis</a>
-      
-    - title: <a href="https://github.com/cfafonso/network-fastest-path-finder">Network Fastest Path Finder</a>
-          
-    - title: <a href="https://github.com/cfafonso/birth-plan-manager">Machine Learning Portfolio</a>
-      
+    - title: Data Science
+      description:
+        - Programming
+        - Version Control
+        - Machine Learning
+        - Databases
+        - Data Mining
+        - Statistical Analysis
 
-- title: Skills
+    - title: Chemistry
+      description:
+        - Cheminformatics
+        - Bioconjugation
+        - Small Molecule and Protein Characterization
+        - Organic Synthesis
+
+    - title: Molecular Biology
+      description:
+        - Bacterial & Mammalian Cell Culture
+        - Protein Expression & Purification
+        - Site-Directed Mutagenesis
+
+    - title: Professional
+      description:
+        - Project Management
+        - Analytical Problem-Solving
+        - Communication
+        - Interdisciplinary Collaboration
+
+- title: Technical Skills
   type: time_table
   contents:
-    - title: Programming
+    - title: Programming Languages
       description:
         - Python
         - SQL
         - SAS
         - R
-        - HTML & CSS
-        - Pandas & NumPy
-        - Scikit-learn
-        - RDKit
 
-    - title: Developer Tools
-      items: Visual Studio Code
+    - title: Libraries
+      description:
+        - Scikit-learn & TensorFlow
+        - Pandas & NumPy
+        - RDKit
+        - Matplotlib & Seaborn
 
     - title: Technologies & Software
       description: 
@@ -94,38 +112,57 @@
         - PowerBI
         - GitHub
         - LaTeX
-        - Microsoft Office
-        - Adobe Illustrator
+        - MS Office
+        - MassLynx
+
+    - title: Developer Tools
+      description:
+        - Visual Studio Code
+        - Git
 
     - title: Laboratory
       description: 
-        - Protein bioconjugation techniques
-        - Affinity, ion-exchange and size-exclusion chromatography
-        - Ultrafiltration
-        - FPLC
         - LC-MS
-        - ELISA
-        - SDS-PAGE
-        - Western blot
-        - Circular dichroism
-        - Organic synthesis
+        - Mass Spectrometry
+        - UHPLC
+        - HPLC
+        - FPLC
         - NMR
-        - Mammalian cell and tissue culture
-        - PCR & RT-PCR
+        - Affinity (AC), Ion-Exchange (IEX) & Size-Exclusion (SEC) Chromatography
+        - Ultrafiltration
+        - SDS-PAGE
+        - Western Blot
+        - ELISA
+        - PCR
+        - RT-PCR
         - Immunofluorescence
-        - Confocal microscopy
+        - Microscopy
 
     - title: Equipment
       description: 
         - Waters Acquity UHPLC systems coupled to QDa detectors
-        - ÄKTA purification systems
+        - AKTA purification systems
         - Bruker NMR spectrometers
 
     - title: Languages
       description: 
         - Portuguese
-        - English (IELTS 8.0/9.0)
+        - English (C1)
         - German (B1)
+        - French (A1)
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/cfafonso/birth-plan-manager">Birth Plan Manager</a>
+
+    - title: <a href="https://github.com/cfafonso/db-sqlite-mongo-benchmark">Database Performance Analysis</a>
+
+    - title: <a href="https://github.com/cfafonso/ecommerce-etl-data-warehouse">Ecommerce Data Warehouse</a>
+      
+    - title: <a href="https://github.com/cfafonso/machine-learning-short-projects">Machine Learning Portfolio</a>
+            
+    - title: <a href="https://github.com/cfafonso/network-fastest-path-finder">Network Fastest Path Finder</a>   
 
 - title: Certifications
   type: time_table

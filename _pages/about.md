@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: Biomedical Reseacher and Data Scientist
+subtitle: Data Scientist and Chemist
 
 profile:
   align: right
@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, my name is Claudia Afonso. I'm a biomedical researcher and data scientist, specialized in developing chemical biology strategies for the modification of proteins, as well as in applying machine learning and statistical analysis to complex datasets. I'm currently seeking opportunities where I can apply my hybrid skill set to solve real-world problems, whether that’s in pharmaceutical, biotechnology, or technology sectors. My GitHub portfolio showcases projects where I’ve applied programming and machine learning techniques to solve problems in various contexts.
+Hi, my name is Claudia Afonso. I'm a data scientist with expertise in programming, data wrangling, machine learning, and statistical analysis of large datasets. My background also includes chemistry and biomedical research, with hands-on experience in chemical and molecular biology techniques. I'm currently seeking opportunities where I can apply my technical and analytical skills to solve real-world problems in data-driven industries. My GitHub portfolio showcases projects where I’ve applied programming and machine learning techniques to solve problems in various contexts.
 
-While living in Lisbon at the moment, I'm fully prepared to relocate. I have experience living and working abroad, first in Germany as a research intern of the IAESTE program, and later in Cambridge, United Kingdom as a visiting doctoral student. I am fluent in written and spoken English, and I also understand German at an intermediate level.
+While living in Portugal at the moment, I'm available for immediate relocation or remote work. I have experience living and working abroad, first in Germany as a research intern through the IAESTE program, and later in Cambridge, United Kingdom, as a visiting doctoral student. I'm fluent in written and spoken English, and I understand German at an intermediate level.
